@@ -1,0 +1,7 @@
+div > img {
+    width: 70px;
+}
+div {
+    border:10px solid red;
+    text-align: center;
+}
